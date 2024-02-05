@@ -1,0 +1,1 @@
+Unit tests are a fundamental part of software development. They are used to verify the correctness of individual units or components of a program. In Python, the unittest module provides a framework for writing and running unit tests.
